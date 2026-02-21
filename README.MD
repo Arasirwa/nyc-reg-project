@@ -73,7 +73,7 @@ To ensure the model's logic is transparent for dispatchers and stakeholders, we 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/nyc-taxi-duration-prediction.git](https://github.com/YourUsername/nyc-taxi-duration-prediction.git)
+   git clone git@github.com:Arasirwa/nyc-reg-project.git
 
 ```
 
@@ -88,4 +88,4 @@ pip install -r requirements.txt
 
 *(Note: Data files should be placed in the `/data` directory. Due to size constraints, the original Kaggle dataset must be downloaded manually from the [NYC Taxi Trip Duration Competition](https://www.kaggle.com/c/nyc-taxi-trip-duration).)*
 
-```# nyc-reg-project
+```
