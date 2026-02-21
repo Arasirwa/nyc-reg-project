@@ -75,17 +75,6 @@ To ensure the model's logic is transparent for dispatchers and stakeholders, we 
    ```bash
    git clone git@github.com:Arasirwa/nyc-reg-project.git
 
-```
-
-2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-
-```
-
-
-3. Run the Jupyter Notebook `nyc_taxi_duration.ipynb` to execute the full pipeline.
+2. Run the Jupyter Notebook `nyc_taxi_duration.ipynb` to execute the full pipeline.
 
 *(Note: Data files should be placed in the `/data` directory. Due to size constraints, the original Kaggle dataset must be downloaded manually from the [NYC Taxi Trip Duration Competition](https://www.kaggle.com/c/nyc-taxi-trip-duration).)*
-
-```
